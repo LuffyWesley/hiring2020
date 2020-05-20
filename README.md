@@ -1,16 +1,9 @@
 # Internships and Jobs for College Students
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-**If you are actively hiring or know of companies actively hiring**, please fill this [form](https://forms.gle/PM7rdswc4Cx716WWA) to add a job to the actively hiring list. You can also mail us at cr@hiring20.com
+If you are actively hiring or know of companies actively hiring, please let us know by mailing us at cr@hiring20.com
 
-**Follow us on social media for regular job updates.**
-1. [Linkedin](https://www.linkedin.com/company/hiring20)
-2. [Twitter](https://twitter.com/hiring2020)
-3. [Facebook](https://www.facebook.com/pg/hiring20/) 
-
-**Contribute by making a pull request or drop us a message on Twitter at [@hiring2020](https://twitter.com/hiring2020)**
-
-**Note**: If you are contributing to the actively hiring list, please don't add the entries in alphabetical order. New entries should be added at the top.
+**Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular job updates.**
 
 ### Actively Hiring List
 
@@ -310,6 +303,7 @@ This document will be updated regularly as new information becomes available. **
 |Mrytle Beach Pelicans|❌||
 |MullenLowe|❌||
 |National Geographic|❌|
+|National Geospatial-Intelligence Agency|❌|Cancelled all summer 2020 internships, but still processing TOP SECRET clearances and internship offers for summer 2021|
 |National Institutes of Health|❌||
 |National Security Agency|❌|Cancelled all summer 2020 intternships|
 |Naval Research Enterprise Internship Program|❌|Cancelled all summer 2020 internships, but will still process SECRET clearances| 
@@ -827,7 +821,7 @@ This document will be updated regularly as new information becomes available. **
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
 |Verizon|✅|Verizon Wireless will be moving virtual.|
-|ViacomCBS|✅|Still evaluating plans for the summer 2020 internship program. We anticipate a decision very shortly so we can share next steps with you and your supervisors. |
+|ViacomCBS|✅|Program now virtual, shortened from 10 weeks to 7 weeks, and fewer hours per week (24 - 35 hr/wk)|
 |Viasat|✅|Number of positions was significantly reduced. Many were cancelled.|
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks. May 26 to July 17.|
 |VMware|✅|Remote. Housing stipend provided for some|
