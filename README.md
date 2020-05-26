@@ -9,6 +9,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|MealMe|US|Internship|<ul><li>[App Development Internship](https://www.mealme.ai/careers)</li></ul>|
 |Hitachi Vantara|US|Internship|<ul><li>[STEM Summer Internship - Java and Python](https://www.hitachivantara.com/en-us/company/careers/job-details.html#jobid=4733968002)</li></ul>|
 |RockStar|US|Internship|<ul><li>[Marketing Internship](https://www.rockstar-interactions.com/careers/marketing-internship/)</li></ul>|
 |CertiK|US|Internship|<ul><li>[UI/UX Designer Internship](https://jobs.lever.co/certik/6c525a6c-c81c-4f2b-8c93-540c41f31da6/)</li></ul>|
@@ -150,6 +151,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Booz Allen Hamilton|❌||
 |Bosch|❌|Decided to rescind offers after originally considering virtual internships.|
 |Boston Scientific|❌|Cancelled all internships and co-ops for all of 2020.|
+|Bridgewater associates|❌||
 |Bright Health|❌||
 |British Airways|❌|Postponed to 2021|
 |Broadsign|❌||
@@ -584,7 +586,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Fromlabs|✅||
 |FTI Consulting|✅||
 |Gemography|✅|Remote Internship|
-|Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled, manufacturing internships cancelled at Oceanside location).|
+|Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled, manufacturing internships cancelled at Oceanside location). Some internships were cancelled after initial decision of being virtual.|
 |General Atomics|✅|100% happening. Some internships will be remote+partial onsite, others might be fully remote. Start date and internship duration will stay the same.|
 |General Electric|✅|Confirmed by company representative. No cancellations. Info by May 1.|
 |General Motors|✅|Delayed to beginning of June. Needs confirmation.|
